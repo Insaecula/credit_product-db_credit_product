@@ -6,4 +6,4 @@ public record Product(
         UUID id,
         String name,
         ProductType type
-) {}
+) {}//
